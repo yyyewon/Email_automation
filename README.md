@@ -46,3 +46,8 @@ import schedule
 
 schedule.every().day.at("13:40").do(job)
 
+
+#### 
+- 예시
+![13:40 자동 발송 예시](https://github.com/yyyewon/Email_automation/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-06-18%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%201.58.18.png)
+
