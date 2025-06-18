@@ -44,5 +44,5 @@ send_email_with_attachment(subject, body, to_email, from_email, password, file_p
 
 import schedule
 
-schedule.every().day.at("11:00").do(job) # 11시 발송 예시
+schedule.every().day.at("13:40").do(job)
 
